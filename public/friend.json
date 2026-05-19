@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "john@example.com",
+    "days_since_contact": 12,
+    "status": "Over due",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Ayasha Patel",
+    "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "ayasha@example.com",
+    "days_since_contact": 3,
+    "status": "On track",
+    "tags": ["work", "mentor"],
+    "bio": "My manager at my first job. Incredibly supportive and wise.",
+    "goal": 7,
+    "next_due_date": "2025-07-14"
+  },
+  {
+    "id": 3,
+    "name": "Carlos Mendez",
+    "picture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "carlos@example.com",
+    "days_since_contact": 30,
+    "status": "Almost due",
+    "tags": ["family", "childhood"],
+    "bio": "Cousin who lives abroad. We used to be inseparable as kids.",
+    "goal": 21,
+    "next_due_date": "2025-07-01"
+  },
+  {
+    "id": 4,
+    "name": "Lena Fischer",
+    "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "email": "lena@example.com",
+    "days_since_contact": 1,
+    "status": "Over due",
+    "tags": ["gym", "close friend"],
+    "bio": "Workout partner turned best friend. Always motivating.",
+    "goal": 5,
+    "next_due_date": "2025-07-16"
+  },
+  {
+    "id": 5,
+    "name": "James Okoro",
+    "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "james@example.com",
+    "days_since_contact": 60,
+    "status": "Almost due",
+    "tags": ["networking", "industry"],
+    "bio": "Met at a tech conference in 2022. Great mind in the AI space.",
+    "goal": 30,
+    "next_due_date": "2025-06-15"
+  },
+  {
+    "id": 6,
+    "name": "Sofia Nguyen",
+    "picture": "https://randomuser.me/api/portraits/women/6.jpg",
+    "email": "sofia@example.com",
+    "days_since_contact": 7,
+    "status": "On track",
+    "tags": ["college", "roommate"],
+    "bio": "My college roommate for 3 years. We still chat every week.",
+    "goal": 7,
+    "next_due_date": "2025-07-18"
+  }
+]
